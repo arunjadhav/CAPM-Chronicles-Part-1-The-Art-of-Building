@@ -8,7 +8,7 @@ description: "A technical book on SAP CAP, development, and the Bookshop sample.
 
 # Use a supported GitHub Pages theme
 # See https://pages.github.com/themes/
-theme: minima
+theme: jekyll-theme-leap-day
 
 # Exclude files from build
 exclude:
