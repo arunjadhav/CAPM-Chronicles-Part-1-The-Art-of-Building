@@ -10,4 +10,4 @@ So grab your favorite drink, open your laptop, and enjoy the Bookshop Tales. Jus
 
 [Next: Chapter 1 →](Chapter-1.md)
 
-[Back to Index](index.md)
+[Back to Index](README.md)
