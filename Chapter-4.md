@@ -111,6 +111,28 @@ Alex’s eyes widened.
 “Absolutely,” Byte said. “CAP makes it seamless. And stylish.”
 
 ---
+## 🍽️ The API Buffet: Serving Services in Style
+Just as Alex was admiring the book covers, Emma leaned over with a mischievous grin.
+
+“You know, CAP doesn’t just serve media. It serves APIs too—like a buffet.”
+
+“A buffet?” Alex asked.
+
+“Yep. CAP lets you expose your services in different styles, depending on who’s consuming them.”
+
+She ticked them off on her fingers:
+
+- OData APIs – “Perfect for UI5 and Fiori apps. You get metadata, navigation, filtering, and all the goodies out of the box.”
+- REST APIs – “Simple and clean. Great for mobile apps or lightweight clients.”
+- OpenAPI (Swagger) – “CAP can generate OpenAPI specs automatically. That means your services are self-documented and easy to test.”
+- AsyncAPI – “For event-driven services. You define events like OrderCreated or PizzaArrived, and others can subscribe to them.”
+Byte chimed in:
+“CAP is like a multilingual translator for services. It speaks HTTP, OData, and messaging fluently.”
+
+Alex grinned.
+“So I can build a service once, and CAP helps me serve it in all these formats?”
+
+“Exactly,” Emma said. “You focus on the logic. CAP handles the protocol.”
 
 ## 🎯 Wrapping Up
 
