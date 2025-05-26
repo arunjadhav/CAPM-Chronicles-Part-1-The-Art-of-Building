@@ -14,8 +14,7 @@ remote_theme: jasongrimes/jekyll-chapterbook
 baseurl_canonical: ""
 favicon_path: assets/gitbook/images/favicon.ico
 
-bookcrumbs:
-  book_url: /book.html
+bookcrumbs:  
   contents_url: /contents.html
   book_icon: assets/gitbook/images/apple-touch-icon-precomposed-152.png
 
