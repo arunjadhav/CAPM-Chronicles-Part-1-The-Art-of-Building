@@ -22,6 +22,28 @@ bookcrumbs:
 sidebar_nav_top:
 - label: CAP Chronicles Home
   url: /index.html
+- label: Preface
+  url: /Preface
+- label: The Shift, The Struggle, The Spark
+  url: /Chapter-1
+- label: The First Real Build
+  url: /Chapter-2
+- label: The Setup (Immediate Destruction of Confidence)
+  url: /Chapter-3
+- label: The Service Layer
+  url: /Chapter-4
+- label: The Other Side of the Service
+  url: /Chapter-5
+- label: The Ping, The Pong, The Popcorn
+  url: /Chapter-6
+- label: The Window to the Bookshop — Fiori and Beyond
+  url: /Chapter-7
+- label: Beneath the Shelves — A Conversation About Databases
+  url: /Chapter-8
+- label: Taking the Bookshop to the World — Deployment Options
+  url: /Chapter-9
+- label: Beyond the Books — The Bigger Picture of CAP
+  url: /Chapter-10
 
 bottom_nav:
 - label: Home
@@ -90,7 +112,6 @@ regenerate: true
 # Plugins
 plugins:
   - jekyll-readme-index
-  - jekyll-paginate
 
 # Collections
 collections:
