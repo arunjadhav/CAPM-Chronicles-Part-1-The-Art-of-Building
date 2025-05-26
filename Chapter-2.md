@@ -1,5 +1,6 @@
-# Chapter 2: The First Real Build
-
+---
+layout: chapter
+title: "Chapter 2: The First Real Build"
 ---
 
 The city outside buzzed with life. Inside, Alex was locked in a battle with his terminal.

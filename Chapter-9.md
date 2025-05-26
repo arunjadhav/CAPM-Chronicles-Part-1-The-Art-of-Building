@@ -1,3 +1,8 @@
+---
+layout: chapter
+title: "Chapter 9: Taking the Bookshop to the World — Deployment Options"
+---
+
 # Chapter 9: Taking the Bookshop to the World — Deployment Options
 
 ---

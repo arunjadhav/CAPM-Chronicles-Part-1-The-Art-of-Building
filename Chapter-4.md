@@ -1,5 +1,6 @@
-# Chapter 4: The Service Layer
-
+---
+layout: chapter
+title: "Chapter 4: The Service Layer"
 ---
 
 ## The Curiosity Continues

@@ -1,3 +1,8 @@
+---
+layout: chapter
+title: "Chapter 10: Beyond the Books — The Bigger Picture of CAP"
+---
+
 # Chapter 10: Beyond the Books — The Bigger Picture of CAP
 
 ---

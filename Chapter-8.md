@@ -1,4 +1,7 @@
-# Chapter 8: Beneath the Shelves — A Conversation About Databases
+---
+layout: chapter
+title: "Chapter 8: Beneath the Shelves — A Conversation About Databases"
+---
 
 > *"The right database is like the right foundation for a building — invisible, but everything depends on it."*
 

@@ -1,3 +1,8 @@
+---
+layout: chapter
+title: "Chapter 6: The Ping, The Pong, The Popcorn"
+---
+
 # Chapter 6: The Ping, The Pong, The Popcorn
 
 ---

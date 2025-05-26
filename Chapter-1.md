@@ -1,3 +1,8 @@
+---
+layout: chapter
+title: "Chapter 1: The Shift, The Struggle, The Spark"
+---
+
 # Chapter 1: The Shift, The Struggle, The Spark
 
 ---
