@@ -1,7 +1,9 @@
 ---
 layout: chapter
-title: "Chapter 9: Taking the Bookshop to the World — Deployment Options"
+title: "Taking the Bookshop to the World — Deployment Options"
 ---
+
+<div style="color:#16a085;font-size:2em;font-weight:bold;margin-bottom:1em;">Taking the Bookshop to the World — Deployment Options</div>
 
 ---
 

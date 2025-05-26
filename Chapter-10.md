@@ -1,7 +1,9 @@
 ---
 layout: chapter
-title: "Chapter 10: Beyond the Books — The Bigger Picture of CAP"
+title: "Beyond the Books — The Bigger Picture of CAP"
 ---
+
+<div style="color:#7f8c8d;font-size:2em;font-weight:bold;margin-bottom:1em;">Beyond the Books — The Bigger Picture of CAP</div>
 
 ---
 

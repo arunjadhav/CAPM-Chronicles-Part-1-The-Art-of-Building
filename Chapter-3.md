@@ -1,7 +1,9 @@
 ---
 layout: chapter
-title: "Chapter 3: The Aspect Ratio (And the Magic of Reusable Models)"
+title: "The Setup (Immediate Destruction of Confidence)"
 ---
+
+<div style="color:#228b22;font-size:2em;font-weight:bold;margin-bottom:1em;">The Setup (Immediate Destruction of Confidence)</div>
 
 Alex was in the zone. His bookstore app was shaping up, and for once, he wasn’t stuck in a sea of red error messages.
 

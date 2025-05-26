@@ -1,7 +1,9 @@
 ---
 layout: chapter
-title: "Chapter 2: The First Real Build"
+title: "The First Real Build"
 ---
+
+<div style="color:#b22222;font-size:2em;font-weight:bold;margin-bottom:1em;">The First Real Build</div>
 
 The city outside buzzed with life. Inside, Alex was locked in a battle with his terminal.
 

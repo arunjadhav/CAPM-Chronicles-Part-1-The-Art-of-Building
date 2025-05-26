@@ -1,7 +1,9 @@
 ---
 layout: chapter
-title: "Chapter 1: The Shift, The Struggle, The Spark"
+title: "The Shift, The Struggle, The Spark"
 ---
+
+<div style="color:#2a52be;font-size:2em;font-weight:bold;margin-bottom:1em;">The Shift, The Struggle, The Spark</div>
 
 ---
 

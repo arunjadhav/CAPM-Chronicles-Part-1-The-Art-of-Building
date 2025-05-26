@@ -1,7 +1,9 @@
 ---
 layout: chapter
-title: "Chapter 5: The Other Side of the Service"
+title: "The Other Side of the Service"
 ---
+
+<div style="color:#e67e22;font-size:2em;font-weight:bold;margin-bottom:1em;">The Other Side of the Service</div>
 
 ---
 
