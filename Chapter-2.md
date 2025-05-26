@@ -1,4 +1,4 @@
-# Chapter 3: The First Real Build
+# Chapter 2: The First Real Build
 
 The city outside buzzed with life. Inside, Alex was locked in a battle with his terminal.
 
@@ -300,6 +300,6 @@ Alex raised his mug in return.
 
 “Let’s build something amazing.”
 
-[← Previous: Chapter 2](Chapter-2.md) | [Next: Chapter 3 →](Chapter-3.md)
+[← Previous: Chapter 1](Chapter-1.md) | [Next: Chapter 3 →](Chapter-3.md)
 
 [Back to Index](README.md)
