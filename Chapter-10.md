@@ -3,10 +3,6 @@ layout: chapter
 title: "Beyond the Books — The Bigger Picture of CAP"
 ---
 
-<div style="color:#7f8c8d;font-size:2em;font-weight:bold;margin-bottom:1em;">Beyond the Books — The Bigger Picture of CAP</div>
-
----
-
 The Bookshop was live. Customers could browse, buy, and explore. Alex, Emma, and Byte sat back, proud of what they had built.
 
 But Emma, ever the architect, leaned forward.
@@ -70,5 +66,3 @@ All the best, and happy coding! 📚🚀
 ---
 
 [← Previous: Chapter 9](Chapter-9.md)
-
-[Back to Index](README.md)

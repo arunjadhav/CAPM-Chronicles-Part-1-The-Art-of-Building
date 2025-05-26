@@ -3,8 +3,6 @@ layout: chapter
 title: "The Ping, The Pong, The Popcorn"
 ---
 
-<div style="color:#1abc9c;font-size:2em;font-weight:bold;margin-bottom:1em;">The Ping, The Pong, The Popcorn</div>
----
 ## A Lighthearted Look at Eventing & Messaging
 
 🍿 **The Calm Before the Pop**
@@ -121,5 +119,3 @@ Alex leaned back, clearly impressed.
 ---
 
 [← Previous: Chapter 5](Chapter-5.md) | [Next: Chapter 7 →](Chapter-7.md)
-
-[Back to Index](README.md)

@@ -2,9 +2,6 @@
 layout: chapter
 title: "Beneath the Shelves — A Conversation About Databases"
 ---
-
-<div style="color:#34495e;font-size:2em;font-weight:bold;margin-bottom:1em;">Beneath the Shelves — A Conversation About Databases</div>
----
 > *"The right database is like the right foundation for a building — invisible, but everything depends on it."*
 
 ---
@@ -175,5 +172,3 @@ Alex nodded. “Let’s do it.”
 ---
 
 [← Previous: Chapter 7](Chapter-7.md) | [Next: Chapter 9 →](Chapter-9.md)
-
-[Back to Index](README.md)

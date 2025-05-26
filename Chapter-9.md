@@ -3,10 +3,6 @@ layout: chapter
 title: "Taking the Bookshop to the World — Deployment Options"
 ---
 
-<div style="color:#16a085;font-size:2em;font-weight:bold;margin-bottom:1em;">Taking the Bookshop to the World — Deployment Options</div>
-
----
-
 As the Bookshop app neared completion, Alex asked:
 
 Alex: “So… how do we actually deploy this?”
@@ -58,5 +54,3 @@ Byte: “Exactly. Your Bookshop is ready for the world.”
 ---
 
 [← Previous: Chapter 8](Chapter-8.md) | [Next: Chapter 10 →](Chapter-10.md)
-
-[Back to Index](README.md)

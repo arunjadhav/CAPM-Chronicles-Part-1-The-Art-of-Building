@@ -3,10 +3,6 @@ layout: chapter
 title: "The Other Side of the Service"
 ---
 
-<div style="color:#e67e22;font-size:2em;font-weight:bold;margin-bottom:1em;">The Other Side of the Service</div>
-
----
-
 The Question That Changed the Perspective
 Emma leaned against Alex’s desk, sipping her coffee.
 “So,” she asked casually, “you’ve gotten pretty good at providing services. But what about consuming them?”
@@ -89,5 +85,3 @@ Alex smiled.
 ---
 
 [← Previous: Chapter 4](Chapter-4.md) | [Next: Chapter 6 →](Chapter-6.md)
-
-[Back to Index](README.md)

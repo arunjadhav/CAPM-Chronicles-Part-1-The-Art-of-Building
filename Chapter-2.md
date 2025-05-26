@@ -3,8 +3,6 @@ layout: chapter
 title: "The First Real Build"
 ---
 
-<div style="color:#b22222;font-size:2em;font-weight:bold;margin-bottom:1em;">The First Real Build</div>
----
 The city outside buzzed with life. Inside, Alex was locked in a battle with his terminal.
 
 He had taken Emma’s advice and decided to dive into SAP CAPM. Full of hope, he typed:
@@ -308,5 +306,3 @@ Alex raised his mug in return.
 ---
 
 [← Previous: Chapter 1](Chapter-1.md) | [Next: Chapter 3 →](Chapter-3.md)
-
-[Back to Index](README.md)
