@@ -44,12 +44,6 @@ sidebar_nav_top:
 - label: Beyond the Books — The Bigger Picture of CAP
   url: /Chapter-10
 
-bottom_nav:
-- label: Home
-  url: /index.html
-- label: Book
-  url: /book.html
-
 in_chapter_toc:
   enabled: true
   h_min: 2
@@ -61,7 +55,7 @@ sidebar_toc:
   h_max: 3
 
 github_edit:
-  enabled: true
+  enabled: false
   base_url: https://github.com/arunjadhav/CAPM-Chronicles-Part-1-The-Art-of-Building/edit/main/
 
 extra_css:
