@@ -117,6 +117,6 @@ Alex looked at his project with new eyes. The folders, the files—they weren’
 Byte winked.
 “And don’t forget to validate your inputs. CAP doesn’t like surprises.”
 
-[← Previous: Chapter 3.5](Chapter-3.5.md) | [Next: Chapter 5 →](Chapter-5.md)
+[← Previous: Chapter 3](Chapter-3.md) | [Next: Chapter 5 →](Chapter-5.md)
 
 [Back to Index](README.md)
