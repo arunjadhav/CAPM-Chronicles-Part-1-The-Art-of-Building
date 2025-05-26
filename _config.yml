@@ -1,0 +1,36 @@
+# Minimal Mistakes GitHub Pages configuration
+
+# Site settings
+# (You can customize these as needed)
+title: "CAP Chronicles: Part 1 – The Art of Building"
+author: "Arun Jadhav"
+description: "A technical book on SAP CAP, development, and the Bookshop sample."
+
+# Build settings
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+
+# Optional: Navigation structure (edit as needed)
+# nav:
+#   - title: "Home"
+#     url: "/"
+#   - title: "Chapters"
+#     children:
+#       - title: "Preface"
+#         url: "/Preface"
+#       - title: "Chapter 1"
+#         url: "/Chapter-1"
+#       ...
+
+# Optional: Exclude files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Optional: Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
