@@ -228,7 +228,7 @@ Byte nodded. “CAPM does the heavy lifting. You just need to speak its language
 
 ---
 
-Automating the Workflow
+## Automating the Workflow
 
 Alex was feeling good. Confident, even. But then he made a small change in the code and had to restart the server manually.
 
@@ -274,7 +274,7 @@ Alex leaned back in his chair, proud. “Okay. Let’s build this bookstore.”
 
 ---
 
-The Realization: Fast Inner Loops
+## The Realization: Fast Inner Loops
 
 As he worked, Alex noticed something. The terminal refreshed automatically. The Fiori preview updated in real time. The .http tests returned fresh data with every change.
 

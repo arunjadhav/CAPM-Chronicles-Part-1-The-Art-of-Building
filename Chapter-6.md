@@ -2,7 +2,7 @@
 
 ---
 
-The Calm Before the Pop
+## The Calm Before the Pop
 
 It was a quiet afternoon. Too quiet.
 

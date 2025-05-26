@@ -14,7 +14,7 @@ Byte jumped in. “That’s the magic of CAP. It automatically serves any UI pla
 
 ---
 
-🪟 Understanding the Fiori UI in CAP
+## Understanding the Fiori UI in CAP
 
 Emma opened the CAP documentation on Fiori and walked Alex through the essentials.
 
@@ -63,7 +63,7 @@ Emma nodded. “And it’s enterprise-ready out of the box — responsive, acces
 
 ---
 
-🧭 But What If You Want More Control?
+## 🧭 But What If You Want More Control?
 
 Alex, still curious, asked, “What if I want to build something more custom? Like a modern, interactive UI with animations or a different design system?”
 
@@ -82,7 +82,7 @@ Alex appreciated the flexibility.
 
 ---
 
-🧩 Wrapping Up
+## 🧩 Wrapping Up
 
 By the end of the day, Alex had a clear picture:
 

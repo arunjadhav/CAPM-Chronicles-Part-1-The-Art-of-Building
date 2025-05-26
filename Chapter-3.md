@@ -46,7 +46,7 @@ He snapped his fingers, and a virtual whiteboard appeared.
 
 ---
 
-🧩 Byte’s Aspect Showcase
+## 🧩 Byte’s Aspect Showcase
 
 “First up,” Byte said, drawing a timeline, “the temporal aspect.”
 

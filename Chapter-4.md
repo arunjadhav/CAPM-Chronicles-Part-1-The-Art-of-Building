@@ -2,7 +2,7 @@
 
 ---
 
-The Curiosity Continues
+## The Curiosity Continues
 Alex was on a roll. He had built entities, added mock data, tested services, and even sprinkled in some custom logic. But as he stared at his terminal, a new question bubbled up like a thought in a hot cup of coffee.
 
 “Byte,” he asked, “we’ve been talking about services a lot. But what does it really mean to provide a service in CAP?”
@@ -13,7 +13,7 @@ Byte, ever the digital sage, gave a knowing blink.
 
 ---
 
-🧠 Byte Explains: What It Means to Provide a Service
+## 🧠 Byte Explains: What It Means to Provide a Service
 
 “In CAP,” Byte began, “providing a service means exposing your data and logic to the outside world—whether that’s a UI, another app, or an external system.”
 Alex tilted his head.
@@ -32,7 +32,7 @@ service CatalogService {
 
 ---
 
-👩‍💻 Emma Joins the Conversation
+## 👩‍💻 Emma Joins the Conversation
 
 Just then, Emma strolled in, coffee in hand, catching the tail end of Byte’s analogy.
 “Talking about service provisioning?” she asked.
@@ -45,7 +45,7 @@ Alex’s eyes lit up.
 
 ---
 
-🧪 A Bug Appears: The Input Validation Moment
+## 🧪 A Bug Appears: The Input Validation Moment
 
 Just as Alex was about to test his service, an error popped up in the console.
 “Hmm… it says ‘title is mandatory’—but I did send a title… oh wait, I didn’t.”
@@ -66,7 +66,7 @@ Alex laughed.
 
 ---
 
-🛠️ A New Requirement: Beyond CRUD
+## 🛠️ A New Requirement: Beyond CRUD
 
 Emma glanced at the whiteboard.
 “Hey, didn’t the product owner ask for a way to restock books manually?”
@@ -89,7 +89,7 @@ Alex grinned.
 
 ---
 
-🖼️ A Design Sprint: Serving Media
+## 🖼️ A Design Sprint: Serving Media
 
 Later that day, the UX team dropped by.
 “Can we show book covers in the app? Maybe even let users download sample chapters?”
@@ -112,7 +112,7 @@ Alex’s eyes widened.
 
 ---
 
-🎯 Wrapping Up
+## 🎯 Wrapping Up
 
 Alex looked at his project with new eyes. The folders, the files—they weren’t just code. They were a carefully crafted interface between logic and the world.
 “Okay,” he said, cracking his knuckles. “Let’s make this service shine.”

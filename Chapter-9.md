@@ -10,7 +10,7 @@ Emma smiled. “CAP gives you several options, depending on where you want to ru
 
 ---
 
-🚀 SAP BTP (Business Technology Platform)  
+## 🚀 SAP BTP (Business Technology Platform)  
 Emma: “This is the go-to for enterprise apps.”
 • Uses SAP HANA and Cloud Foundry or Kyma
 • Supports MTA or cf push for deployment
@@ -18,7 +18,7 @@ Emma: “This is the go-to for enterprise apps.”
 
 ---
 
-🧪 Local Deployment  
+## 🧪 Local Deployment  
 Byte: “You’ve already been doing this.”
 • Run with cds watch
 • Uses SQLite or local HANA
@@ -26,14 +26,14 @@ Byte: “You’ve already been doing this.”
 
 ---
 
-🐳 Docker & Containers  
+## 🐳 Docker & Containers  
 Emma: “Want portability? Use Docker.”
 • Package your app in a container
 • Deploy anywhere: Kubernetes, Kyma, etc.
 
 ---
 
-🌐 Third-Party Clouds  
+## 🌐 Third-Party Clouds  
 Alex: “Can I use AWS or Azure?”
 Byte: “Sure!”
 • Use PostgreSQL, MySQL, or managed HANA
@@ -41,7 +41,7 @@ Byte: “Sure!”
 
 ---
 
-🧩 Static UI Hosting  
+## 🧩 Static UI Hosting  
 Emma: “If your UI is separate, host it on Netlify, Firebase, or SAP’s HTML5 repo.”
 
 ---
