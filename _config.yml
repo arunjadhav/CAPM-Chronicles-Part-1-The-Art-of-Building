@@ -90,6 +90,7 @@ regenerate: true
 # Plugins
 plugins:
   - jekyll-readme-index
+  - jekyll-paginate
 
 # Collections
 collections:
