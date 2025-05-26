@@ -65,4 +65,4 @@ All the best, and happy coding! 📚🚀
 
 ---
 
-[← Previous: Chapter 9](Chapter-9.md)
+[← Previous](Chapter-9.md)

@@ -171,4 +171,4 @@ Alex nodded. “Let’s do it.”
 
 ---
 
-[← Previous: Chapter 7](Chapter-7.md) | [Next: Chapter 9 →](Chapter-9.md)
+[← Previous](Chapter-7.md) | [Next](Chapter-9.md)

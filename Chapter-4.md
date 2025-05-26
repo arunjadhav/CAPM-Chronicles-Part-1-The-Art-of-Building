@@ -144,4 +144,4 @@ Byte winked.
 
 ---
 
-[← Previous: Chapter 3](Chapter-3.md) | [Next: Chapter 5 →](Chapter-5.md)
+[← Previous](Chapter-3.md) | [Next](Chapter-5.md)

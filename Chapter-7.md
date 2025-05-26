@@ -98,4 +98,4 @@ Emma smiled. “And now you know how to open it — with Fiori, or with your own
 
 ---
 
-[← Previous: Chapter 6](Chapter-6.md) | [Next: Chapter 8 →](Chapter-8.md)
+[← Previous](Chapter-6.md) | [Next](Chapter-8.md)

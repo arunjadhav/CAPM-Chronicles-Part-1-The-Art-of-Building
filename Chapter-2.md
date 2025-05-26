@@ -305,4 +305,4 @@ Alex raised his mug in return.
 
 ---
 
-[← Previous: Chapter 1](Chapter-1.md) | [Next: Chapter 3 →](Chapter-3.md)
+[← Previous](Chapter-1.md) | [Next](Chapter-3.md)

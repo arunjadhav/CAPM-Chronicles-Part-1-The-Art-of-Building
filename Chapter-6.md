@@ -118,4 +118,4 @@ Alex leaned back, clearly impressed.
 
 ---
 
-[← Previous: Chapter 5](Chapter-5.md) | [Next: Chapter 7 →](Chapter-7.md)
+[← Previous](Chapter-5.md) | [Next](Chapter-7.md)

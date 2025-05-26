@@ -98,4 +98,4 @@ Byte grinned. “Buckle up.”
 
 ---
 
-[← Previous: Chapter 2](Chapter-2.md) | [Next: Chapter 4 →](Chapter-4.md)
+[← Previous](Chapter-2.md) | [Next](Chapter-4.md)

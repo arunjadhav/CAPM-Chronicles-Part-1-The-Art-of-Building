@@ -53,4 +53,4 @@ Byte: “Exactly. Your Bookshop is ready for the world.”
 
 ---
 
-[← Previous: Chapter 8](Chapter-8.md) | [Next: Chapter 10 →](Chapter-10.md)
+[← Previous](Chapter-8.md) | [Next](Chapter-10.md)

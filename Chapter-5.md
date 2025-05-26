@@ -84,4 +84,4 @@ Alex smiled.
 
 ---
 
-[← Previous: Chapter 4](Chapter-4.md) | [Next: Chapter 6 →](Chapter-6.md)
+[← Previous](Chapter-4.md) | [Next](Chapter-6.md)
