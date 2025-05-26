@@ -1,5 +1,7 @@
 # Chapter 7: The Window to the Bookshop — Fiori and Beyond
 
+---
+
 The backend of the Bookshop application was solid. Services were defined, entities modeled, and data flowed like a well-organized library. But Alex, ever the curious developer, stared at the terminal and asked the question that had been on his mind:
 
 “How do we actually see this bookshop? Where’s the UI?”
@@ -92,6 +94,8 @@ He looked at the app/ folder with new eyes.
 “It’s not just a folder,” he said. “It’s the window to the Bookshop.”
 
 Emma smiled. “And now you know how to open it — with Fiori, or with your own brush.”
+
+---
 
 [← Previous: Chapter 6](Chapter-6.md) | [Next: Chapter 8 →](Chapter-8.md)
 

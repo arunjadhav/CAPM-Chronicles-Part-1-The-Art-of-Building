@@ -1,4 +1,6 @@
-# Chapter 5: The Other Side of the Service (Consuming, Not Just Providing)
+# Chapter 5: The Other Side of the Service
+
+---
 
 The Question That Changed the Perspective
 Emma leaned against Alex’s desk, sipping her coffee.
@@ -8,20 +10,20 @@ Alex blinked. “Consuming?”
 Alex paused. “Huh. I didn’t think about that.”
 “Exactly,” Emma said. “Time to flip the script.”
 
-________________________________________
+---
 
 Byte Jumps In
 Byte: “Consuming services is a core part of CAP. You can connect to SAP S/4HANA, SuccessFactors, or even public OData services. CAP treats them like native models.”
 “So I can use external services like I use my own entities?”
 Byte: “Precisely. You define them in .cds files, bind them to destinations, and CAP handles the rest.”
 
-________________________________________
+---
 
 Alex Gets Curious
 “Okay Byte, show me an example.”
 Byte: “Let’s use the classic: Northwind OData service. It’s public and perfect for demos.”
 
-________________________________________
+---
 
 Step-by-Step: Consuming Northwind
 
@@ -58,7 +60,7 @@ service CatalogService {
 “That’s it?” Alex asked.
 Byte: “That’s it. Now your app can read products from Northwind like they’re local.”
 
-________________________________________
+---
 
 Testing the Integration
 Alex added a new request to his test.http file:
@@ -70,7 +72,7 @@ He clicked Send Request.
 📦 A list of products appeared—Chai, Chang, Aniseed Syrup...
 “This is wild,” Alex whispered. “I’m pulling live data from a public service.”
 
-________________________________________
+---
 
 Emma Wraps It Up
 “Now imagine that’s not Northwind,” Emma said, “but your company’s SAP backend. You can consume services from S/4HANA, reuse existing logic, and extend it in CAP.”
@@ -78,6 +80,8 @@ Emma Wraps It Up
 “Exactly. It’s the glue.”
 Alex smiled.
 “Okay. I’m ready to connect the world.”
+
+---
 
 [← Previous: Chapter 4](Chapter-4.md) | [Next: Chapter 6 →](Chapter-6.md)
 

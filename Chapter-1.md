@@ -1,5 +1,7 @@
 # Chapter 1: The Shift, The Struggle, The Spark
 
+---
+
 Alex was no stranger to SAP. A seasoned developer, he had recently transitioned to the world of S/4HANA, riding the wave of digital transformation sweeping through his company. But with the migration came a new buzzword that kept popping up in blogs, webinars, and internal meetings—side-by-side extensibility.
 
 And with it, a name: SAP BTP CAPM.
@@ -34,6 +36,8 @@ Alex blinked. “A bookstore?”
 
 And just like that, the fog began to lift.
 
-[← Previous: Preface](Preface.md) | [Next: Chapter 2 →](Chapter-2.md)
+---
+
+[Next: Chapter 2 →](Chapter-2.md)
 
 [Back to Index](README.md)

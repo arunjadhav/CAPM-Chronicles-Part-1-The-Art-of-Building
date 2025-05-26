@@ -1,5 +1,7 @@
 # Chapter 6: The Ping, The Pong, The Popcorn (A Lighthearted Look at Eventing & Messaging)
 
+---
+
 The Calm Before the Pop
 
 It was a quiet afternoon. Too quiet.
@@ -92,6 +94,8 @@ Byte: “Exactly. It speaks HTTP, OData, and messaging fluently.”
 “Okay,” Alex grinned. “I’m not just building apps anymore. I’m building conversations.”
 
 Byte: “And CAP makes sure everyone speaks the same language.”
+
+---
 
 [← Previous: Chapter 5](Chapter-5.md) | [Next: Chapter 7 →](Chapter-7.md)
 

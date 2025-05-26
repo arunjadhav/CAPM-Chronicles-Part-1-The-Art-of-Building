@@ -1,5 +1,7 @@
 # Chapter 2: The First Real Build
 
+---
+
 The city outside buzzed with life. Inside, Alex was locked in a battle with his terminal.
 
 He had taken Emma’s advice and decided to dive into SAP CAPM. Full of hope, he typed:
@@ -224,7 +226,7 @@ A clean, responsive UI appeared—tables for Books and Authors, complete with Cr
 
 Byte nodded. “CAPM does the heavy lifting. You just need to speak its language.”
 
-________________________________________
+---
 
 Automating the Workflow
 
@@ -242,7 +244,7 @@ Alex tried it. He made a change, hit save, and watched the server restart automa
 
 “This is amazing,” he whispered.
 
-________________________________________
+---
 
 Testing Like a Pro
 
@@ -270,7 +272,7 @@ Emma grinned. “You are.”
 
 Alex leaned back in his chair, proud. “Okay. Let’s build this bookstore.”
 
-________________________________________
+---
 
 The Realization: Fast Inner Loops
 
@@ -299,6 +301,8 @@ Emma raised her coffee in a toast. “Welcome to the loop.”
 Alex raised his mug in return.
 
 “Let’s build something amazing.”
+
+---
 
 [← Previous: Chapter 1](Chapter-1.md) | [Next: Chapter 3 →](Chapter-3.md)
 

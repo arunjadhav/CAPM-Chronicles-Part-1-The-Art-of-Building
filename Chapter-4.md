@@ -1,4 +1,6 @@
-# Chapter 4: The Service Layer (And the Art of Providing)
+# Chapter 4: The Service Layer
+
+---
 
 The Curiosity Continues
 Alex was on a roll. He had built entities, added mock data, tested services, and even sprinkled in some custom logic. But as he stared at his terminal, a new question bubbled up like a thought in a hot cup of coffee.
@@ -9,7 +11,7 @@ Byte, ever the digital sage, gave a knowing blink.
 
 “Ah, the philosophical phase of development. Let’s unpack that.”
 
-________________________________________
+---
 
 🧠 Byte Explains: What It Means to Provide a Service
 
@@ -28,7 +30,7 @@ service CatalogService {
 
 “Voilà! You’ve just opened your bookstore to the world. No late fees, no overdue notices.”
 
-________________________________________
+---
 
 👩‍💻 Emma Joins the Conversation
 
@@ -41,7 +43,7 @@ Alex’s eyes lit up.
 “So when I write CatalogService, I’m saying: ‘Here’s the Books entity, ready to be used’?”
 “Exactly,” Emma said. “And you can define multiple services for different audiences—like one for admins, another for customers. Each gets a tailored view.”
 
-________________________________________
+---
 
 🧪 A Bug Appears: The Input Validation Moment
 
@@ -62,7 +64,7 @@ Here, title is mandatory, and stock must be between 0 and 999. Try sending a boo
 Alex laughed.
 “So CAP is basically my mom when I tried to wear flip-flops to a wedding.”
 
-________________________________________
+---
 
 🛠️ A New Requirement: Beyond CRUD
 
@@ -85,7 +87,7 @@ Alex grinned.
 “So actions are bossy, and functions are curious?”
 “Exactly,” Emma said. “Just like you and Byte.”
 
-________________________________________
+---
 
 🖼️ A Design Sprint: Serving Media
 
@@ -108,7 +110,7 @@ Alex’s eyes widened.
 “So I could build a digital library with book covers and sample chapters?”
 “Absolutely,” Byte said. “CAP makes it seamless. And stylish.”
 
-________________________________________
+---
 
 🎯 Wrapping Up
 
@@ -116,6 +118,8 @@ Alex looked at his project with new eyes. The folders, the files—they weren’
 “Okay,” he said, cracking his knuckles. “Let’s make this service shine.”
 Byte winked.
 “And don’t forget to validate your inputs. CAP doesn’t like surprises.”
+
+---
 
 [← Previous: Chapter 3](Chapter-3.md) | [Next: Chapter 5 →](Chapter-5.md)
 

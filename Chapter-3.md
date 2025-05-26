@@ -44,7 +44,7 @@ Byte’s eyes lit up. “Oh, you’re going to love this. Let me show you a few 
 
 He snapped his fingers, and a virtual whiteboard appeared.
 
-________________________________________
+---
 
 🧩 Byte’s Aspect Showcase
 
@@ -79,7 +79,7 @@ aspect statusTracking {
 
 “Then just plug it into any entity that needs it.”
 
-________________________________________
+---
 
 Alex stared at the board, impressed. “So aspects are like mix-ins for my data model?”
 
@@ -92,6 +92,8 @@ Byte leaned in. “Well, now that your entities are structured, how about we mak
 Alex tilted his head. “You mean… validations?”
 
 Byte grinned. “Buckle up.”
+
+---
 
 [← Previous: Chapter 2](Chapter-2.md) | [Next: Chapter 4 →](Chapter-4.md)
 
