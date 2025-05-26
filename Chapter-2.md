@@ -100,6 +100,10 @@ He tries cds run on terminal again. Another error.
 
 💥 ERROR: Missing service definitions!
 
+Alex sighed. “Okay, what’s a service file then?”
+
+Emma leaned over. “It’s how you expose your data model. You define which entities are available to the outside world—like APIs. CAP uses it to generate endpoints and even the Fiori preview.”
+
 Byte chimed in, “Time to define your services. Create two files in the srv/ folder.”
 
 In srv/admin-service.cds:
