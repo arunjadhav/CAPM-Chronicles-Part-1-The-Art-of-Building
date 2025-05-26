@@ -1,14 +1,13 @@
 # GitHub Pages configuration for a technical book
 
 # Site settings
-# (You can customize these as needed)
 title: "CAP Chronicles: Part 1 – The Art of Building"
 author: "Arun Jadhav"
 description: "A technical book on SAP CAP, development, and the Bookshop sample."
 
-# Use a supported GitHub Pages theme
-# See https://pages.github.com/themes/
-theme: jekyll-theme-leap-day
+# Use jekyll-gitbook theme via remote_theme
+github: [metadata]
+remote_theme: sighingnow/jekyll-gitbook
 
 # Exclude files from build
 exclude:
