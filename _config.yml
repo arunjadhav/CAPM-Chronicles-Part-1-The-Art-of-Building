@@ -19,30 +19,30 @@ bookcrumbs:
   book_icon: assets/gitbook/images/apple-touch-icon-precomposed-152.png
 
 sidebar_nav_top:
-- label: CAP Chronicles Home
-  url: /index.html
-- label: Preface
-  url: /Preface
-- label: The Shift, The Struggle, The Spark
-  url: /Chapter-1
-- label: The First Real Build
-  url: /Chapter-2
-- label: The Setup (Immediate Destruction of Confidence)
-  url: /Chapter-3
-- label: The Service Layer
-  url: /Chapter-4
-- label: The Other Side of the Service
-  url: /Chapter-5
-- label: The Ping, The Pong, The Popcorn
-  url: /Chapter-6
-- label: The Window to the Bookshop — Fiori and Beyond
-  url: /Chapter-7
-- label: Beneath the Shelves — A Conversation About Databases
-  url: /Chapter-8
-- label: Taking the Bookshop to the World — Deployment Options
-  url: /Chapter-9
-- label: Beyond the Books — The Bigger Picture of CAP
-  url: /Chapter-10
+- label: Part 1 – The Art of Building
+  children:
+    - label: Preface
+      url: /Preface
+    - label: The Shift, The Struggle, The Spark
+      url: /Chapter-1
+    - label: The First Real Build
+      url: /Chapter-2
+    - label: The Setup (Immediate Destruction of Confidence)
+      url: /Chapter-3
+    - label: The Service Layer
+      url: /Chapter-4
+    - label: The Other Side of the Service
+      url: /Chapter-5
+    - label: The Ping, The Pong, The Popcorn
+      url: /Chapter-6
+    - label: The Window to the Bookshop — Fiori and Beyond
+      url: /Chapter-7
+    - label: Beneath the Shelves — A Conversation About Databases
+      url: /Chapter-8
+    - label: Taking the Bookshop to the World — Deployment Options
+      url: /Chapter-9
+    - label: Beyond the Books — The Bigger Picture of CAP
+      url: /Chapter-10
 
 in_chapter_toc:
   enabled: true
@@ -61,32 +61,6 @@ github_edit:
 extra_css:
 
 show_drafts_in_dev: false
-
-parts:
-  - title: "Contents"
-    chapters:
-      - title: "Preface"
-        url: /Preface
-      - title: "The Shift, The Struggle, The Spark"
-        url: /Chapter-1
-      - title: "The First Real Build"
-        url: /Chapter-2
-      - title: "The Setup (Immediate Destruction of Confidence)"
-        url: /Chapter-3
-      - title: "The Service Layer"
-        url: /Chapter-4
-      - title: "The Other Side of the Service"
-        url: /Chapter-5
-      - title: "The Ping, The Pong, The Popcorn"
-        url: /Chapter-6
-      - title: "The Window to the Bookshop — Fiori and Beyond"
-        url: /Chapter-7
-      - title: "Beneath the Shelves — A Conversation About Databases"
-        url: /Chapter-8
-      - title: "Taking the Bookshop to the World — Deployment Options"
-        url: /Chapter-9
-      - title: "Beyond the Books — The Bigger Picture of CAP"
-        url: /Chapter-10
 
 # Exclude files from build
 exclude:
