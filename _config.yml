@@ -1,4 +1,4 @@
-# Minimal Mistakes GitHub Pages configuration
+# GitHub Pages configuration for a technical book
 
 # Site settings
 # (You can customize these as needed)
@@ -6,43 +6,9 @@ title: "CAP Chronicles: Part 1 – The Art of Building"
 author: "Arun Jadhav"
 description: "A technical book on SAP CAP, development, and the Bookshop sample."
 
-# Build settings
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-remote-theme
-
-# Enable minimal-mistakes features
-minimal_mistakes_skin: "default"
-search: true
-
-# Navigation structure
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Preface"
-    url: "/Preface"
-  - title: "Chapters"
-    children:
-      - title: "Chapter 1: The Shift, The Struggle, The Spark"
-        url: "/Chapter-1"
-      - title: "Chapter 2: The First Real Build"
-        url: "/Chapter-2"
-      - title: "Chapter 3: The Setup (Immediate Destruction of Confidence)"
-        url: "/Chapter-3"
-      - title: "Chapter 4: The Service Layer"
-        url: "/Chapter-4"
-      - title: "Chapter 5: The Other Side of the Service"
-        url: "/Chapter-5"
-      - title: "Chapter 6: The Ping, The Pong, The Popcorn"
-        url: "/Chapter-6"
-      - title: "Chapter 7: The Window to the Bookshop — Fiori and Beyond"
-        url: "/Chapter-7"
-      - title: "Chapter 8: Beneath the Shelves — A Conversation About Databases"
-        url: "/Chapter-8"
-      - title: "Chapter 9: Taking the Bookshop to the World — Deployment Options"
-        url: "/Chapter-9"
-      - title: "Chapter 10: Beyond the Books — The Bigger Picture of CAP"
-        url: "/Chapter-10"
+# Use a supported GitHub Pages theme
+# See https://pages.github.com/themes/
+theme: minima
 
 # Exclude files from build
 exclude:
