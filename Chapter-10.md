@@ -3,8 +3,6 @@ layout: chapter
 title: "Chapter 10: Beyond the Books — The Bigger Picture of CAP"
 ---
 
-# Chapter 10: Beyond the Books — The Bigger Picture of CAP
-
 ---
 
 The Bookshop was live. Customers could browse, buy, and explore. Alex, Emma, and Byte sat back, proud of what they had built.

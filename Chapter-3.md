@@ -3,8 +3,6 @@ layout: chapter
 title: "Chapter 3: The Aspect Ratio (And the Magic of Reusable Models)"
 ---
 
-# Chapter 3: The Aspect Ratio (And the Magic of Reusable Models)
-
 Alex was in the zone. His bookstore app was shaping up, and for once, he wasn’t stuck in a sea of red error messages.
 
 “Byte,” he said, “can we add some standard fields to the Books entity? Like createdBy, createdAt, modifiedBy, modifiedAt?”

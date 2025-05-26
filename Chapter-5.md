@@ -3,8 +3,6 @@ layout: chapter
 title: "Chapter 5: The Other Side of the Service"
 ---
 
-# Chapter 5: The Other Side of the Service
-
 ---
 
 The Question That Changed the Perspective

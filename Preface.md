@@ -3,8 +3,6 @@ layout: chapter
 title: "Preface"
 ---
 
-# Preface
-
 ---
 
 Let’s be honest—learning something new like CAP can feel like starting a video game with no instructions, no map, and a boss fight right at the beginning. Confusing, right?

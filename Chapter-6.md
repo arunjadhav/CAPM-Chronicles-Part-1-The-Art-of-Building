@@ -3,8 +3,6 @@ layout: chapter
 title: "Chapter 6: The Ping, The Pong, The Popcorn"
 ---
 
-# Chapter 6: The Ping, The Pong, The Popcorn
-
 ---
 
 ## The Ping, The Pong, The Popcorn (A Lighthearted Look at Eventing & Messaging)
