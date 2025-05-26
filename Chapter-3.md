@@ -4,7 +4,7 @@ title: "The Setup (Immediate Destruction of Confidence)"
 ---
 
 <div style="color:#228b22;font-size:2em;font-weight:bold;margin-bottom:1em;">The Setup (Immediate Destruction of Confidence)</div>
-
+---
 Alex was in the zone. His bookstore app was shaping up, and for once, he wasn’t stuck in a sea of red error messages.
 
 “Byte,” he said, “can we add some standard fields to the Books entity? Like createdBy, createdAt, modifiedBy, modifiedAt?”

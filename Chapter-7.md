@@ -4,7 +4,7 @@ title: "The Window to the Bookshop — Fiori and Beyond"
 ---
 
 <div style="color:#d35400;font-size:2em;font-weight:bold;margin-bottom:1em;">The Window to the Bookshop — Fiori and Beyond</div>
-
+---
 The backend of the Bookshop application was solid. Services were defined, entities modeled, and data flowed like a well-organized library. But Alex, ever the curious developer, stared at the terminal and asked the question that had been on his mind:
 
 “How do we actually see this bookshop? Where’s the UI?”

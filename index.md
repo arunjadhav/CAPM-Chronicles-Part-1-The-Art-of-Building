@@ -4,8 +4,6 @@ title: "CAP Chronicles: Part 1 – The Art of Building"
 description: "A technical book on SAP CAP, development, and the Bookshop sample."
 ---
 
-# CAP Chronicles: Part 1 – The Art of Building
-
 Welcome! This is the Table of Contents for the Bookshop Tales. Click a chapter to begin reading.
 
 - [Preface](Preface)

@@ -4,7 +4,7 @@ title: "The Service Layer"
 ---
 
 <div style="color:#8b008b;font-size:2em;font-weight:bold;margin-bottom:1em;">The Service Layer</div>
-
+---
 ## The Curiosity Continues
 Alex was on a roll. He had built entities, added mock data, tested services, and even sprinkled in some custom logic. But as he stared at his terminal, a new question bubbled up like a thought in a hot cup of coffee.
 

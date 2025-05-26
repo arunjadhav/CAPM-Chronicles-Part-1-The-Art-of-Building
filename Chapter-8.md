@@ -4,7 +4,7 @@ title: "Beneath the Shelves — A Conversation About Databases"
 ---
 
 <div style="color:#34495e;font-size:2em;font-weight:bold;margin-bottom:1em;">Beneath the Shelves — A Conversation About Databases</div>
-
+---
 > *"The right database is like the right foundation for a building — invisible, but everything depends on it."*
 
 ---

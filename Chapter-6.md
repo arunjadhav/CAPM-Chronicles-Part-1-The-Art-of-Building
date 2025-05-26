@@ -4,8 +4,8 @@ title: "The Ping, The Pong, The Popcorn"
 ---
 
 <div style="color:#1abc9c;font-size:2em;font-weight:bold;margin-bottom:1em;">The Ping, The Pong, The Popcorn</div>
-
-## The Ping, The Pong, The Popcorn (A Lighthearted Look at Eventing & Messaging)
+---
+## A Lighthearted Look at Eventing & Messaging
 
 🍿 **The Calm Before the Pop**
 
