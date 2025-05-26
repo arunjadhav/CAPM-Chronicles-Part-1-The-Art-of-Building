@@ -62,7 +62,9 @@ Boom. Error.
 
 Emma peeked over her monitor. “You forgot the schema, didn’t you?”
 
-Alex groaned. “Yup.”
+Alex groaned. “Yup. Wait—what exactly is a schema file?”
+
+Emma smiled. “It’s where you define your data model. Think of it like the blueprint for your database—entities, fields, relationships. CAP reads it to generate the backend.”
 
 With Byte’s help, he created a new file: db/schema.cds.
 
@@ -83,7 +85,18 @@ entity Authors {
 }
 ```
 
-He tried again. Another error.
+📁 Folder structure now:
+```
+bookshop/
+├── app/
+├── db/
+│   └── schema.cds
+├── srv/
+├── package.json
+└── README.md
+```
+
+He tries cds run on terminal again. Another error.
 
 💥 ERROR: Missing service definitions!
 
@@ -111,6 +124,18 @@ service CatalogService {
   entity Books as projection on my.Books;
 }
 ```
+📁 Folder structure now:
+```
+bookshop/
+├── app/
+├── db/
+│   └── schema.cds
+├── srv/
+│   ├── admin-service.cds
+│   └── cat-service.cds
+├── package.json
+└── README.md
+```
 
 He ran the app again:
 
@@ -122,10 +147,12 @@ This time, success.
 
 This time, the terminal lit up with a new kind of magic:
 
+```
 🎉 [cds] - loaded model from 3 file(s)...
 using sqlite database...
 serving CatalogService at /catalog... AdminService at /admin
 [cds] - server listening on http://localhost:4004
+```
 
 He blinked. “Wait… SQLite?”
 

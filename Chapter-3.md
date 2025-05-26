@@ -1,4 +1,4 @@
-# Chapter 3.5: The Aspect Ratio (And the Magic of Reusable Models)
+# Chapter 3: The Aspect Ratio (And the Magic of Reusable Models)
 
 Alex was in the zone. His bookstore app was shaping up, and for once, he wasn’t stuck in a sea of red error messages.
 
